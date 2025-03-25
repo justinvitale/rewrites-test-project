@@ -1,0 +1,9 @@
+{
+    "rewrites": [
+      {
+        "source": "/about",
+        "destination": "https://vercel.com/"
+      }
+    ]
+  }
+  
